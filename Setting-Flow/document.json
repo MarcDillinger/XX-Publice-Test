@@ -1,0 +1,205 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "FB87F57C-8256-49DA-89DE-7E85FAE179AF",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "9cc73480-a428-11eb-abb5-d7893f38d562",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "087FC5E7-04D7-419A-9D2A-99A04ED15813",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1AC66D89-6667-40A1-AE19-089A8B946A01",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1B4DCF7F-AE26-42B7-84D8-DD3A9C1590DB",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "225FC398-DB4E-43D5-9201-0A3BAAA89C53",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3650D8C1-4B48-4773-ACA5-1642B25BE25D",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5A185A4F-2C2A-4849-B9BA-CC253E4EF305",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6301819D-E720-4C4A-B54E-2E2218386065",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8212CE72-ED54-404A-AE4D-4039AF9AF496",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8711113B-C262-4A69-AA21-B89664AC614A",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Roboto-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A9962C5F-2071-439E-888B-C61DA01D0317",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BEB55166-866A-4895-AF02-1BEE11B1DB9B",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Roboto-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C890EEC7-061D-4A37-B07E-12A52F1B0CB7",
+      "fontFamilyName": "Roboto",
+      "fontFileName": "Roboto-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Roboto-Regular"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "E3B4695F-824A-4559-99E3-15547DE88EE3",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "71.2",
+    "build": 115329,
+    "version": 136
+  },
+  "pages": [
+    "Wireframes",
+    "Screenens"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "24836DA4-3915-47CE-ACFE-7C3A293E2619",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "6023a1e09b7d2899d2db70d0": {
+          "name": "JambitWebsite",
+          "styleguideId": "6023a1e09b7d2899d2db70d0"
+        },
+        "6023a35dbb8aae3a007b7961": {
+          "name": "Haus02",
+          "styleguideId": "6023a35dbb8aae3a007b7961"
+        },
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
