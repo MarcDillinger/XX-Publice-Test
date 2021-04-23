@@ -1,15 +1,16 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.7423082434612772,
-    "green": 0.7423082434612772,
-    "red": 0.7423082434612772
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1C43C363-BDB3-40C0-AD32-940D9C69FB3E",
+  "do_objectID": "70BF6960-4F66-45AC-8F24-D6DD9A94E157",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1031,
-    "width": 3208,
-    "x": -1327,
-    "y": -737
+    "height": 667,
+    "width": 375,
+    "x": 1641,
+    "y": -202
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +41,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,48 +49,32 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "406A1C59-2FD4-4CB5-9B59-D03AE39BA72D"
+      "class": "rectangle",
+      "id": "FB9D7020-17DF-4CF6-8C10-D245BA0ED0B9"
     },
     {
-      "class": "symbolInstance",
-      "id": "699E61C0-82E0-48C9-B34D-C30D78F2F47E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1495BF01-207D-4A04-BD30-3F3660D271F9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EFFBFA89-9923-4BF5-BBC4-446D82EAC861"
-    },
-    {
-      "class": "shapePath",
-      "id": "27BADA62-B69F-4DE7-AF22-9087E686C0E6"
-    },
-    {
-      "class": "shapePath",
-      "id": "454E136C-B313-479D-9A7F-6784A5D1A168"
-    },
-    {
-      "class": "shapePath",
-      "id": "C7F71FEB-C9E3-4AE9-99DB-BE35BDB21680"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EE1A709B-055C-4DB6-9D90-04C6D803479F"
-    },
-    {
-      "class": "shapePath",
-      "id": "C729EB7F-08E4-4DF6-8A63-8D9FF6A5B9BB"
+      "class": "rectangle",
+      "id": "8999D4C3-D414-40FD-BA40-6EADAA53104F"
     }
   ],
-  "name": "Flow-XX",
+  "name": "05",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D7B27325-9B82-472A-821F-DACC3E286DFA_stringValue"
+    }
+  ],
   "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -129,7 +115,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "16A215CA-B5ED-491E-99E6-84EC3E96D455",
+    "do_objectID": "06224983-D267-460B-A11F-3816C489CAF0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -141,6 +127,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "F321BE0C-4421-4366-93FF-A608EEA9AC20",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

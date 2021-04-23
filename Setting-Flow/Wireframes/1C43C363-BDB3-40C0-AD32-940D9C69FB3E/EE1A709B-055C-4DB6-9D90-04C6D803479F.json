@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9cc70d70-a428-11eb-abb5-d7893f38d562",
+  "do_objectID": "EE1A709B-055C-4DB6-9D90-04C6D803479F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,56 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": 2100,
+    "y": 161.826171875
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "6B7914E2-8997-4565-9ED0-6AF33AF9D2EE"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "BAB176C7-AC03-47E5-A51C-15EB2A2C986D"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "064CB0AA-966E-465F-8F92-B4A040AC587F"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "70BF6960-4F66-45AC-8F24-D6DD9A94E157"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "606C5D08-72D3-4375-A176-2D3BC755882B"
-    }
+  "name": "05",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Screenens",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -100,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "363C2FBB-D180-464A-975E-28F12FF77390",
+    "do_objectID": "CBFF0E53-53FF-413A-9242-2AC15CCF4CDF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "F321BE0C-4421-4366-93FF-A608EEA9AC20",
+  "verticalSpacing": 0
 }
