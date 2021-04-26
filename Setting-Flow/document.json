@@ -151,6 +151,26 @@
   "foreignLayerStyles": [
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "9AEEF45B-A08D-4750-A303-B06A70DAE653",
+      "libraryID": "7BAAF94F-6797-4123-B457-55E00969D2C6",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "D0A49F97-9956-42C6-8968-D081365E851C",
+        "name": "4. #999999-color-dark-grey",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
+        }
+      },
+      "remoteSwatchID": "BC3DD955-964D-46EC-AB95-066555BA6E5F",
+      "sourceLibraryName": "MBAC_library_2021",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
   ],
